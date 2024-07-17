@@ -61,8 +61,6 @@ Inicie o servidor
   - Opções de edição e exclusão de tarefas através dos ícones de lápis e lixeira.
 
 ### Capturas de Tela
-Incluir capturas de tela ou vídeos demonstrativos das funcionalidades da página inicial.
-## Screenshots
 
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/e4109111-f5cd-4a62-9c7b-fba9b1c89f46)
 
